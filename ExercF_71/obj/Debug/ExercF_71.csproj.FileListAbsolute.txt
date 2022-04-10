@@ -1,0 +1,8 @@
+C:\Users\leonardo\Source\Repos\ExercF_71\ExercF_71\bin\Debug\ExercF_71.exe.config
+C:\Users\leonardo\Source\Repos\ExercF_71\ExercF_71\bin\Debug\ExercF_71.exe
+C:\Users\leonardo\Source\Repos\ExercF_71\ExercF_71\bin\Debug\ExercF_71.pdb
+C:\Users\leonardo\Source\Repos\ExercF_71\ExercF_71\obj\Debug\ExercF_71.csproj.AssemblyReference.cache
+C:\Users\leonardo\Source\Repos\ExercF_71\ExercF_71\obj\Debug\ExercF_71.csproj.SuggestedBindingRedirects.cache
+C:\Users\leonardo\Source\Repos\ExercF_71\ExercF_71\obj\Debug\ExercF_71.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\Source\Repos\ExercF_71\ExercF_71\obj\Debug\ExercF_71.exe
+C:\Users\leonardo\Source\Repos\ExercF_71\ExercF_71\obj\Debug\ExercF_71.pdb
