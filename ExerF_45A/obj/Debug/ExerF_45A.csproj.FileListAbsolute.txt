@@ -1,0 +1,8 @@
+C:\Users\leonardo\Source\Repos\ExerF_45A\ExerF_45A\bin\Debug\ExerF_45A.exe.config
+C:\Users\leonardo\Source\Repos\ExerF_45A\ExerF_45A\bin\Debug\ExerF_45A.exe
+C:\Users\leonardo\Source\Repos\ExerF_45A\ExerF_45A\bin\Debug\ExerF_45A.pdb
+C:\Users\leonardo\Source\Repos\ExerF_45A\ExerF_45A\obj\Debug\ExerF_45A.csproj.AssemblyReference.cache
+C:\Users\leonardo\Source\Repos\ExerF_45A\ExerF_45A\obj\Debug\ExerF_45A.csproj.SuggestedBindingRedirects.cache
+C:\Users\leonardo\Source\Repos\ExerF_45A\ExerF_45A\obj\Debug\ExerF_45A.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\Source\Repos\ExerF_45A\ExerF_45A\obj\Debug\ExerF_45A.exe
+C:\Users\leonardo\Source\Repos\ExerF_45A\ExerF_45A\obj\Debug\ExerF_45A.pdb
