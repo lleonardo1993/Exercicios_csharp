@@ -1,0 +1,8 @@
+C:\Users\leonardo\Source\Repos\Exerc_56_Properties\Exerc_56_Properties\obj\Debug\Exerc_56_Properties.csproj.AssemblyReference.cache
+C:\Users\leonardo\Source\Repos\Exerc_56_Properties\Exerc_56_Properties\obj\Debug\Exerc_56_Properties.csproj.SuggestedBindingRedirects.cache
+C:\Users\leonardo\Source\Repos\Exerc_56_Properties\Exerc_56_Properties\obj\Debug\Exerc_56_Properties.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\Source\Repos\Exerc_56_Properties\Exerc_56_Properties\bin\Debug\Exerc_56_Properties.exe.config
+C:\Users\leonardo\Source\Repos\Exerc_56_Properties\Exerc_56_Properties\bin\Debug\Exerc_56_Properties.exe
+C:\Users\leonardo\Source\Repos\Exerc_56_Properties\Exerc_56_Properties\bin\Debug\Exerc_56_Properties.pdb
+C:\Users\leonardo\Source\Repos\Exerc_56_Properties\Exerc_56_Properties\obj\Debug\Exerc_56_Properties.exe
+C:\Users\leonardo\Source\Repos\Exerc_56_Properties\Exerc_56_Properties\obj\Debug\Exerc_56_Properties.pdb
