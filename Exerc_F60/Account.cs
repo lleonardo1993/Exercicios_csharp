@@ -1,7 +1,7 @@
-﻿using System;
+using System;
 using System.Globalization;
 
-namespace ExercF_60
+namespace Exerc_F60
 {
     internal class Account
     {
