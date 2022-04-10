@@ -1,0 +1,8 @@
+C:\Users\leonardo\Source\Repos\Exerc_F60\Exerc_F60\bin\Debug\Exerc_F60.exe.config
+C:\Users\leonardo\Source\Repos\Exerc_F60\Exerc_F60\bin\Debug\Exerc_F60.exe
+C:\Users\leonardo\Source\Repos\Exerc_F60\Exerc_F60\bin\Debug\Exerc_F60.pdb
+C:\Users\leonardo\Source\Repos\Exerc_F60\Exerc_F60\obj\Debug\Exerc_F60.csproj.AssemblyReference.cache
+C:\Users\leonardo\Source\Repos\Exerc_F60\Exerc_F60\obj\Debug\Exerc_F60.csproj.SuggestedBindingRedirects.cache
+C:\Users\leonardo\Source\Repos\Exerc_F60\Exerc_F60\obj\Debug\Exerc_F60.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\Source\Repos\Exerc_F60\Exerc_F60\obj\Debug\Exerc_F60.exe
+C:\Users\leonardo\Source\Repos\Exerc_F60\Exerc_F60\obj\Debug\Exerc_F60.pdb
