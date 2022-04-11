@@ -1,0 +1,8 @@
+C:\Exercicios_csharp\Exerc_78\Exerc_78\bin\Debug\Exerc_78.exe.config
+C:\Exercicios_csharp\Exerc_78\Exerc_78\bin\Debug\Exerc_78.exe
+C:\Exercicios_csharp\Exerc_78\Exerc_78\bin\Debug\Exerc_78.pdb
+C:\Exercicios_csharp\Exerc_78\Exerc_78\obj\Debug\Exerc_78.csproj.AssemblyReference.cache
+C:\Exercicios_csharp\Exerc_78\Exerc_78\obj\Debug\Exerc_78.csproj.SuggestedBindingRedirects.cache
+C:\Exercicios_csharp\Exerc_78\Exerc_78\obj\Debug\Exerc_78.csproj.CoreCompileInputs.cache
+C:\Exercicios_csharp\Exerc_78\Exerc_78\obj\Debug\Exerc_78.exe
+C:\Exercicios_csharp\Exerc_78\Exerc_78\obj\Debug\Exerc_78.pdb
