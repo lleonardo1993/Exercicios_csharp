@@ -1,0 +1,8 @@
+C:\Exercicios_csharp\Exerc_82\Exerc_82\bin\Debug\Exerc_82.exe.config
+C:\Exercicios_csharp\Exerc_82\Exerc_82\bin\Debug\Exerc_82.exe
+C:\Exercicios_csharp\Exerc_82\Exerc_82\bin\Debug\Exerc_82.pdb
+C:\Exercicios_csharp\Exerc_82\Exerc_82\obj\Debug\Exerc_82.csproj.AssemblyReference.cache
+C:\Exercicios_csharp\Exerc_82\Exerc_82\obj\Debug\Exerc_82.csproj.SuggestedBindingRedirects.cache
+C:\Exercicios_csharp\Exerc_82\Exerc_82\obj\Debug\Exerc_82.csproj.CoreCompileInputs.cache
+C:\Exercicios_csharp\Exerc_82\Exerc_82\obj\Debug\Exerc_82.exe
+C:\Exercicios_csharp\Exerc_82\Exerc_82\obj\Debug\Exerc_82.pdb
