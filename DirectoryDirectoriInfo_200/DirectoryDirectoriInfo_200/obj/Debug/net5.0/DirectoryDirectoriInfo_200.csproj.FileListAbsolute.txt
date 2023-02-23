@@ -1,0 +1,16 @@
+C:\Users\Win10\Source\Repos\Exercicios_csharp\DirectoryDirectoriInfo_200\DirectoryDirectoriInfo_200\bin\Debug\net5.0\DirectoryDirectoriInfo_200.exe
+C:\Users\Win10\Source\Repos\Exercicios_csharp\DirectoryDirectoriInfo_200\DirectoryDirectoriInfo_200\bin\Debug\net5.0\DirectoryDirectoriInfo_200.deps.json
+C:\Users\Win10\Source\Repos\Exercicios_csharp\DirectoryDirectoriInfo_200\DirectoryDirectoriInfo_200\bin\Debug\net5.0\DirectoryDirectoriInfo_200.runtimeconfig.json
+C:\Users\Win10\Source\Repos\Exercicios_csharp\DirectoryDirectoriInfo_200\DirectoryDirectoriInfo_200\bin\Debug\net5.0\DirectoryDirectoriInfo_200.runtimeconfig.dev.json
+C:\Users\Win10\Source\Repos\Exercicios_csharp\DirectoryDirectoriInfo_200\DirectoryDirectoriInfo_200\bin\Debug\net5.0\DirectoryDirectoriInfo_200.dll
+C:\Users\Win10\Source\Repos\Exercicios_csharp\DirectoryDirectoriInfo_200\DirectoryDirectoriInfo_200\bin\Debug\net5.0\ref\DirectoryDirectoriInfo_200.dll
+C:\Users\Win10\Source\Repos\Exercicios_csharp\DirectoryDirectoriInfo_200\DirectoryDirectoriInfo_200\bin\Debug\net5.0\DirectoryDirectoriInfo_200.pdb
+C:\Users\Win10\Source\Repos\Exercicios_csharp\DirectoryDirectoriInfo_200\DirectoryDirectoriInfo_200\obj\Debug\net5.0\DirectoryDirectoriInfo_200.csproj.AssemblyReference.cache
+C:\Users\Win10\Source\Repos\Exercicios_csharp\DirectoryDirectoriInfo_200\DirectoryDirectoriInfo_200\obj\Debug\net5.0\DirectoryDirectoriInfo_200.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Source\Repos\Exercicios_csharp\DirectoryDirectoriInfo_200\DirectoryDirectoriInfo_200\obj\Debug\net5.0\DirectoryDirectoriInfo_200.AssemblyInfoInputs.cache
+C:\Users\Win10\Source\Repos\Exercicios_csharp\DirectoryDirectoriInfo_200\DirectoryDirectoriInfo_200\obj\Debug\net5.0\DirectoryDirectoriInfo_200.AssemblyInfo.cs
+C:\Users\Win10\Source\Repos\Exercicios_csharp\DirectoryDirectoriInfo_200\DirectoryDirectoriInfo_200\obj\Debug\net5.0\DirectoryDirectoriInfo_200.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Source\Repos\Exercicios_csharp\DirectoryDirectoriInfo_200\DirectoryDirectoriInfo_200\obj\Debug\net5.0\DirectoryDirectoriInfo_200.dll
+C:\Users\Win10\Source\Repos\Exercicios_csharp\DirectoryDirectoriInfo_200\DirectoryDirectoriInfo_200\obj\Debug\net5.0\ref\DirectoryDirectoriInfo_200.dll
+C:\Users\Win10\Source\Repos\Exercicios_csharp\DirectoryDirectoriInfo_200\DirectoryDirectoriInfo_200\obj\Debug\net5.0\DirectoryDirectoriInfo_200.pdb
+C:\Users\Win10\Source\Repos\Exercicios_csharp\DirectoryDirectoriInfo_200\DirectoryDirectoriInfo_200\obj\Debug\net5.0\DirectoryDirectoriInfo_200.genruntimeconfig.cache
