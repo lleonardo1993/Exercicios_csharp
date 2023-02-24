@@ -13,9 +13,19 @@ namespace DirectoryDirectoriInfo_200
 
             try
             {
-                IEnumerable<string> folders = Directory.EnumerateDirectories(path, "*.*", SearchOption.AllDirectories); //listar pastas dentro do diretorio
+                //listar pastas dentro do diretorio
+
+                IEnumerable<string> folders = Directory.EnumerateDirectories(path, "*.*", SearchOption.AllDirectories); 
                 Console.WriteLine("FOLDERS: ");
                 foreach(string s in folders)
+                {
+                    Console.WriteLine(s);
+                }
+
+                //listar arquivos dentro do diretorio
+                IEnumerable<string> files = Directory.EnumerateFiles(path, "*.*", SearchOption.AllDirectories); 
+                Console.WriteLine("FILES: ");
+                foreach (string s in files)
                 {
                     Console.WriteLine(s);
                 }
