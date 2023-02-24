@@ -1,0 +1,16 @@
+C:\Users\Win10\source\repos\Exercicios_csharp\Path\Path\bin\Debug\net5.0\Pathh.exe
+C:\Users\Win10\source\repos\Exercicios_csharp\Path\Path\bin\Debug\net5.0\Pathh.deps.json
+C:\Users\Win10\source\repos\Exercicios_csharp\Path\Path\bin\Debug\net5.0\Pathh.runtimeconfig.json
+C:\Users\Win10\source\repos\Exercicios_csharp\Path\Path\bin\Debug\net5.0\Pathh.runtimeconfig.dev.json
+C:\Users\Win10\source\repos\Exercicios_csharp\Path\Path\bin\Debug\net5.0\Pathh.dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Path\Path\bin\Debug\net5.0\ref\Pathh.dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Path\Path\bin\Debug\net5.0\Pathh.pdb
+C:\Users\Win10\source\repos\Exercicios_csharp\Path\Path\obj\Debug\net5.0\Pathh.csproj.AssemblyReference.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Path\Path\obj\Debug\net5.0\Pathh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\source\repos\Exercicios_csharp\Path\Path\obj\Debug\net5.0\Pathh.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Path\Path\obj\Debug\net5.0\Pathh.AssemblyInfo.cs
+C:\Users\Win10\source\repos\Exercicios_csharp\Path\Path\obj\Debug\net5.0\Pathh.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Path\Path\obj\Debug\net5.0\Pathh.dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Path\Path\obj\Debug\net5.0\ref\Pathh.dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Path\Path\obj\Debug\net5.0\Pathh.pdb
+C:\Users\Win10\source\repos\Exercicios_csharp\Path\Path\obj\Debug\net5.0\Pathh.genruntimeconfig.cache

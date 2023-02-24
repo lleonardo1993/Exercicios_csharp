@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Win10\\source\\repos\\Exercicios_csharp\\Path\\Path\\Path.csproj",
-      "projectName": "Path",
-      "projectPath": "C:\\Users\\Win10\\source\\repos\\Exercicios_csharp\\Path\\Path\\Path.csproj",
+      "projectUniqueName": "C:\\Users\\Win10\\source\\repos\\Exercicios_csharp\\Path\\Path\\Pathh.csproj",
+      "projectName": "Pathh",
+      "projectPath": "C:\\Users\\Win10\\source\\repos\\Exercicios_csharp\\Path\\Path\\Pathh.csproj",
       "packagesPath": "C:\\Users\\Win10\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Win10\\source\\repos\\Exercicios_csharp\\Path\\Path\\obj\\",
       "projectStyle": "PackageReference",
