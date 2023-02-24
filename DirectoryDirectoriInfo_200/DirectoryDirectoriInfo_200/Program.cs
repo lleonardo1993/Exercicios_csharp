@@ -23,12 +23,18 @@ namespace DirectoryDirectoriInfo_200
                 }
 
                 //listar arquivos dentro do diretorio
+
                 IEnumerable<string> files = Directory.EnumerateFiles(path, "*.*", SearchOption.AllDirectories); 
                 Console.WriteLine("FILES: ");
                 foreach (string s in files)
                 {
                     Console.WriteLine(s);
                 }
+
+                //criar pasta dentro de diretorio
+
+                Directory.CreateDirectory(path + "\\newfolder");
+                Console.WriteLine("Pasta criada!");
             }
             catch (IOException e)
             {
