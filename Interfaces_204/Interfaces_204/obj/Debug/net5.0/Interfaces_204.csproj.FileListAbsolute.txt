@@ -1,0 +1,16 @@
+C:\Users\Win10\source\repos\Exercicios_csharp\Interfaces_204\Interfaces_204\bin\Debug\net5.0\Interfaces_204.exe
+C:\Users\Win10\source\repos\Exercicios_csharp\Interfaces_204\Interfaces_204\bin\Debug\net5.0\Interfaces_204.deps.json
+C:\Users\Win10\source\repos\Exercicios_csharp\Interfaces_204\Interfaces_204\bin\Debug\net5.0\Interfaces_204.runtimeconfig.json
+C:\Users\Win10\source\repos\Exercicios_csharp\Interfaces_204\Interfaces_204\bin\Debug\net5.0\Interfaces_204.runtimeconfig.dev.json
+C:\Users\Win10\source\repos\Exercicios_csharp\Interfaces_204\Interfaces_204\bin\Debug\net5.0\Interfaces_204.dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Interfaces_204\Interfaces_204\bin\Debug\net5.0\ref\Interfaces_204.dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Interfaces_204\Interfaces_204\bin\Debug\net5.0\Interfaces_204.pdb
+C:\Users\Win10\source\repos\Exercicios_csharp\Interfaces_204\Interfaces_204\obj\Debug\net5.0\Interfaces_204.csproj.AssemblyReference.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Interfaces_204\Interfaces_204\obj\Debug\net5.0\Interfaces_204.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\source\repos\Exercicios_csharp\Interfaces_204\Interfaces_204\obj\Debug\net5.0\Interfaces_204.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Interfaces_204\Interfaces_204\obj\Debug\net5.0\Interfaces_204.AssemblyInfo.cs
+C:\Users\Win10\source\repos\Exercicios_csharp\Interfaces_204\Interfaces_204\obj\Debug\net5.0\Interfaces_204.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Interfaces_204\Interfaces_204\obj\Debug\net5.0\Interfaces_204.dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Interfaces_204\Interfaces_204\obj\Debug\net5.0\ref\Interfaces_204.dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Interfaces_204\Interfaces_204\obj\Debug\net5.0\Interfaces_204.pdb
+C:\Users\Win10\source\repos\Exercicios_csharp\Interfaces_204\Interfaces_204\obj\Debug\net5.0\Interfaces_204.genruntimeconfig.cache
