@@ -1,0 +1,16 @@
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_201\Exerc_201\bin\Debug\net5.0\Exerc_201.exe
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_201\Exerc_201\bin\Debug\net5.0\Exerc_201.deps.json
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_201\Exerc_201\bin\Debug\net5.0\Exerc_201.runtimeconfig.json
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_201\Exerc_201\bin\Debug\net5.0\Exerc_201.runtimeconfig.dev.json
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_201\Exerc_201\bin\Debug\net5.0\Exerc_201.dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_201\Exerc_201\bin\Debug\net5.0\ref\Exerc_201.dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_201\Exerc_201\bin\Debug\net5.0\Exerc_201.pdb
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_201\Exerc_201\obj\Debug\net5.0\Exerc_201.csproj.AssemblyReference.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_201\Exerc_201\obj\Debug\net5.0\Exerc_201.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_201\Exerc_201\obj\Debug\net5.0\Exerc_201.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_201\Exerc_201\obj\Debug\net5.0\Exerc_201.AssemblyInfo.cs
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_201\Exerc_201\obj\Debug\net5.0\Exerc_201.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_201\Exerc_201\obj\Debug\net5.0\Exerc_201.dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_201\Exerc_201\obj\Debug\net5.0\ref\Exerc_201.dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_201\Exerc_201\obj\Debug\net5.0\Exerc_201.pdb
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_201\Exerc_201\obj\Debug\net5.0\Exerc_201.genruntimeconfig.cache
