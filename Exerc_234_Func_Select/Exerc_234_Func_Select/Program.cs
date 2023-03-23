@@ -13,7 +13,7 @@ namespace Exerc_234_Func_Select
             list.Add(new Product("Tablet", 450.00));
 
 
-            List<string> result = list.Select(p => p.Name.ToUpper()).ToList();
+            List<string> result = list.Select(p => p.Name.ToUpper()).ToList(); // passando expressao lambda in line
 
             foreach (string s in result)
             {
