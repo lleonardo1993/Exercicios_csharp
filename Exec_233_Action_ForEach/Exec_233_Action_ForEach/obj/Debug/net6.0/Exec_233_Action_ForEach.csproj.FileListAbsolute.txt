@@ -1,0 +1,15 @@
+C:\Users\Win10\source\repos\Exercicios_csharp\Exec_233_Action_ForEach\Exec_233_Action_ForEach\bin\Debug\net6.0\Exec_233_Action_ForEach.exe
+C:\Users\Win10\source\repos\Exercicios_csharp\Exec_233_Action_ForEach\Exec_233_Action_ForEach\bin\Debug\net6.0\Exec_233_Action_ForEach.deps.json
+C:\Users\Win10\source\repos\Exercicios_csharp\Exec_233_Action_ForEach\Exec_233_Action_ForEach\bin\Debug\net6.0\Exec_233_Action_ForEach.runtimeconfig.json
+C:\Users\Win10\source\repos\Exercicios_csharp\Exec_233_Action_ForEach\Exec_233_Action_ForEach\bin\Debug\net6.0\Exec_233_Action_ForEach.dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Exec_233_Action_ForEach\Exec_233_Action_ForEach\bin\Debug\net6.0\Exec_233_Action_ForEach.pdb
+C:\Users\Win10\source\repos\Exercicios_csharp\Exec_233_Action_ForEach\Exec_233_Action_ForEach\obj\Debug\net6.0\Exec_233_Action_ForEach.csproj.AssemblyReference.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Exec_233_Action_ForEach\Exec_233_Action_ForEach\obj\Debug\net6.0\Exec_233_Action_ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\source\repos\Exercicios_csharp\Exec_233_Action_ForEach\Exec_233_Action_ForEach\obj\Debug\net6.0\Exec_233_Action_ForEach.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Exec_233_Action_ForEach\Exec_233_Action_ForEach\obj\Debug\net6.0\Exec_233_Action_ForEach.AssemblyInfo.cs
+C:\Users\Win10\source\repos\Exercicios_csharp\Exec_233_Action_ForEach\Exec_233_Action_ForEach\obj\Debug\net6.0\Exec_233_Action_ForEach.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Exec_233_Action_ForEach\Exec_233_Action_ForEach\obj\Debug\net6.0\Exec_233_Action_ForEach.dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Exec_233_Action_ForEach\Exec_233_Action_ForEach\obj\Debug\net6.0\refint\Exec_233_Action_ForEach.dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Exec_233_Action_ForEach\Exec_233_Action_ForEach\obj\Debug\net6.0\Exec_233_Action_ForEach.pdb
+C:\Users\Win10\source\repos\Exercicios_csharp\Exec_233_Action_ForEach\Exec_233_Action_ForEach\obj\Debug\net6.0\Exec_233_Action_ForEach.genruntimeconfig.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Exec_233_Action_ForEach\Exec_233_Action_ForEach\obj\Debug\net6.0\ref\Exec_233_Action_ForEach.dll
