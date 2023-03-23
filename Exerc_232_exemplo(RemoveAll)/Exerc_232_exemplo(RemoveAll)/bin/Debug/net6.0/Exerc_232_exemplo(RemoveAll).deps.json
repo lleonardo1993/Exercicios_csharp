@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exerc_232_exemplo(RemoveAll)/1.0.0": {
+        "runtime": {
+          "Exerc_232_exemplo(RemoveAll).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exerc_232_exemplo(RemoveAll)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

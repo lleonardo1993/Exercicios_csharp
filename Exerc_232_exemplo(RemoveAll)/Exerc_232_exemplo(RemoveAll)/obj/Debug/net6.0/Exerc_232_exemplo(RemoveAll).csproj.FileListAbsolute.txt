@@ -1,0 +1,15 @@
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_232_exemplo(RemoveAll)\Exerc_232_exemplo(RemoveAll)\bin\Debug\net6.0\Exerc_232_exemplo(RemoveAll).exe
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_232_exemplo(RemoveAll)\Exerc_232_exemplo(RemoveAll)\bin\Debug\net6.0\Exerc_232_exemplo(RemoveAll).deps.json
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_232_exemplo(RemoveAll)\Exerc_232_exemplo(RemoveAll)\bin\Debug\net6.0\Exerc_232_exemplo(RemoveAll).runtimeconfig.json
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_232_exemplo(RemoveAll)\Exerc_232_exemplo(RemoveAll)\bin\Debug\net6.0\Exerc_232_exemplo(RemoveAll).dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_232_exemplo(RemoveAll)\Exerc_232_exemplo(RemoveAll)\bin\Debug\net6.0\Exerc_232_exemplo(RemoveAll).pdb
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_232_exemplo(RemoveAll)\Exerc_232_exemplo(RemoveAll)\obj\Debug\net6.0\Exerc_232_exemplo(RemoveAll).csproj.AssemblyReference.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_232_exemplo(RemoveAll)\Exerc_232_exemplo(RemoveAll)\obj\Debug\net6.0\Exerc_232_exemplo(RemoveAll).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_232_exemplo(RemoveAll)\Exerc_232_exemplo(RemoveAll)\obj\Debug\net6.0\Exerc_232_exemplo(RemoveAll).AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_232_exemplo(RemoveAll)\Exerc_232_exemplo(RemoveAll)\obj\Debug\net6.0\Exerc_232_exemplo(RemoveAll).AssemblyInfo.cs
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_232_exemplo(RemoveAll)\Exerc_232_exemplo(RemoveAll)\obj\Debug\net6.0\Exerc_232_exemplo(RemoveAll).csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_232_exemplo(RemoveAll)\Exerc_232_exemplo(RemoveAll)\obj\Debug\net6.0\Exerc_232_exemplo(RemoveAll).dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_232_exemplo(RemoveAll)\Exerc_232_exemplo(RemoveAll)\obj\Debug\net6.0\refint\Exerc_232_exemplo(RemoveAll).dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_232_exemplo(RemoveAll)\Exerc_232_exemplo(RemoveAll)\obj\Debug\net6.0\Exerc_232_exemplo(RemoveAll).pdb
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_232_exemplo(RemoveAll)\Exerc_232_exemplo(RemoveAll)\obj\Debug\net6.0\Exerc_232_exemplo(RemoveAll).genruntimeconfig.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_232_exemplo(RemoveAll)\Exerc_232_exemplo(RemoveAll)\obj\Debug\net6.0\ref\Exerc_232_exemplo(RemoveAll).dll
