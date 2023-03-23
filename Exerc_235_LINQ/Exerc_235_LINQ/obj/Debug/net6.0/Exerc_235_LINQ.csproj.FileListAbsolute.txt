@@ -1,0 +1,15 @@
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_235_LINQ\Exerc_235_LINQ\bin\Debug\net6.0\Exerc_235_LINQ.exe
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_235_LINQ\Exerc_235_LINQ\bin\Debug\net6.0\Exerc_235_LINQ.deps.json
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_235_LINQ\Exerc_235_LINQ\bin\Debug\net6.0\Exerc_235_LINQ.runtimeconfig.json
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_235_LINQ\Exerc_235_LINQ\bin\Debug\net6.0\Exerc_235_LINQ.dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_235_LINQ\Exerc_235_LINQ\bin\Debug\net6.0\Exerc_235_LINQ.pdb
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_235_LINQ\Exerc_235_LINQ\obj\Debug\net6.0\Exerc_235_LINQ.csproj.AssemblyReference.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_235_LINQ\Exerc_235_LINQ\obj\Debug\net6.0\Exerc_235_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_235_LINQ\Exerc_235_LINQ\obj\Debug\net6.0\Exerc_235_LINQ.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_235_LINQ\Exerc_235_LINQ\obj\Debug\net6.0\Exerc_235_LINQ.AssemblyInfo.cs
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_235_LINQ\Exerc_235_LINQ\obj\Debug\net6.0\Exerc_235_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_235_LINQ\Exerc_235_LINQ\obj\Debug\net6.0\Exerc_235_LINQ.dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_235_LINQ\Exerc_235_LINQ\obj\Debug\net6.0\refint\Exerc_235_LINQ.dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_235_LINQ\Exerc_235_LINQ\obj\Debug\net6.0\Exerc_235_LINQ.pdb
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_235_LINQ\Exerc_235_LINQ\obj\Debug\net6.0\Exerc_235_LINQ.genruntimeconfig.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_235_LINQ\Exerc_235_LINQ\obj\Debug\net6.0\ref\Exerc_235_LINQ.dll
