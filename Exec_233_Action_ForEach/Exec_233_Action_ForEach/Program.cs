@@ -13,9 +13,8 @@ namespace Exec_233_Action_ForEach
             list.Add(new Product("Tablet", 350.30));
             list.Add(new Product("HD Case", 90.20));
 
-            Action<Product> act = p => { p.Price += p.Price * 0.1; };  // passando funcao lambda como ação, por ser um tipo void é preciso usar { }.
 
-            list.ForEach(act);
+            list.ForEach(p => { p.Price += p.Price * 0.1; }); //passando funcao lambda em line;
 
             foreach(Product product in list)
             {
@@ -24,10 +23,5 @@ namespace Exec_233_Action_ForEach
             Console.ReadKey();
         }
 
-
-        static void UpdatePrice(Product p)
-        {
-            p.Price += p.Price * 0.1;
-        }
     }
 }
