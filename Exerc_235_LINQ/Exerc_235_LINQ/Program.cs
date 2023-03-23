@@ -8,7 +8,7 @@
             int[] numbers = { 1, 2, 3, 4, 5, 6, };
 
             // Define the query expression
-            var result = numbers
+            IEnumerable<int> result = numbers
                 .Where(x => x % 2 == 0) // expressao lambda, faz uma consulta no array filtrando somente os numeros pares.
                 .Select(x => x * 10); // pega o valor da consulta e multiplica por 10.
 
