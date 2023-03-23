@@ -16,7 +16,7 @@ namespace Exerc_232_exemplo_RemoveAll_
             list.Add(new Product("HD Case", 90.20));
 
 
-            list.RemoveAll(ProductTest);
+            list.RemoveAll(ProductTest); // passado como refencia uma função predicate esperando um bool
 
             foreach(Product p in list)
             {
