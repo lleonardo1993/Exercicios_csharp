@@ -1,0 +1,15 @@
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_234_Func_Select\Exerc_234_Func_Select\bin\Debug\net6.0\Exerc_234_Func_Select.exe
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_234_Func_Select\Exerc_234_Func_Select\bin\Debug\net6.0\Exerc_234_Func_Select.deps.json
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_234_Func_Select\Exerc_234_Func_Select\bin\Debug\net6.0\Exerc_234_Func_Select.runtimeconfig.json
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_234_Func_Select\Exerc_234_Func_Select\bin\Debug\net6.0\Exerc_234_Func_Select.dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_234_Func_Select\Exerc_234_Func_Select\bin\Debug\net6.0\Exerc_234_Func_Select.pdb
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_234_Func_Select\Exerc_234_Func_Select\obj\Debug\net6.0\Exerc_234_Func_Select.csproj.AssemblyReference.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_234_Func_Select\Exerc_234_Func_Select\obj\Debug\net6.0\Exerc_234_Func_Select.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_234_Func_Select\Exerc_234_Func_Select\obj\Debug\net6.0\Exerc_234_Func_Select.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_234_Func_Select\Exerc_234_Func_Select\obj\Debug\net6.0\Exerc_234_Func_Select.AssemblyInfo.cs
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_234_Func_Select\Exerc_234_Func_Select\obj\Debug\net6.0\Exerc_234_Func_Select.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_234_Func_Select\Exerc_234_Func_Select\obj\Debug\net6.0\Exerc_234_Func_Select.dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_234_Func_Select\Exerc_234_Func_Select\obj\Debug\net6.0\refint\Exerc_234_Func_Select.dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_234_Func_Select\Exerc_234_Func_Select\obj\Debug\net6.0\Exerc_234_Func_Select.pdb
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_234_Func_Select\Exerc_234_Func_Select\obj\Debug\net6.0\Exerc_234_Func_Select.genruntimeconfig.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_234_Func_Select\Exerc_234_Func_Select\obj\Debug\net6.0\ref\Exerc_234_Func_Select.dll
