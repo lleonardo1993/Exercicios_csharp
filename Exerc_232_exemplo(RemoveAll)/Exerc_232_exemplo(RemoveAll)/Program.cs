@@ -16,13 +16,18 @@ namespace Exerc_232_exemplo_RemoveAll_
             list.Add(new Product("HD Case", 90.20));
 
 
-            list.RemoveAll(p => p.Price >= 100.00);
+            list.RemoveAll(ProductTest);
 
             foreach(Product p in list)
             {
                 Console.WriteLine(p);
             }
             Console.ReadKey();
+        }
+
+        public static bool ProductTest(Product p)
+        {
+            return p.Price >= 100.0;
         }
     }
 }
