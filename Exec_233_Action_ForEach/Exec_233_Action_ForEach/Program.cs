@@ -13,7 +13,7 @@ namespace Exec_233_Action_ForEach
             list.Add(new Product("Tablet", 350.30));
             list.Add(new Product("HD Case", 90.20));
 
-            Action<Product> act = UpdatePrice; // passando funcao como refenrecia para um tipo delegate Action
+            Action<Product> act = p => { p.Price += p.Price * 0.1; };  // passando funcao lambda como ação, por ser um tipo void é preciso usar { }.
 
             list.ForEach(act);
 
