@@ -13,7 +13,9 @@ namespace Exec_233_Action_ForEach
             list.Add(new Product("Tablet", 350.30));
             list.Add(new Product("HD Case", 90.20));
 
-            list.ForEach(UpdatePrice);
+            Action<Product> act = UpdatePrice; // passando funcao como refenrecia para um tipo delegate Action
+
+            list.ForEach(act);
 
             foreach(Product product in list)
             {
