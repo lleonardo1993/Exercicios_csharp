@@ -12,8 +12,8 @@ namespace Exerc_234_Func_Select
             list.Add(new Product("Notebook", 1200.00));
             list.Add(new Product("Tablet", 450.00));
 
-            //recebe um produto retorna uma string
-            Func<Product, string> func = NameUpper;// referencia da funcao
+            
+            Func<Product, string> func = p => p.Name.ToUpper();//passando expressao lambda direto na func
 
             List<string> result = list.Select(func).ToList();
 
@@ -24,9 +24,5 @@ namespace Exerc_234_Func_Select
             Console.ReadKey();
         }
 
-        static string NameUpper(Product p)
-        {
-            return p.Name.ToUpper();
-        }
     }
 }
