@@ -12,7 +12,10 @@ namespace Exerc_234_Func_Select
             list.Add(new Product("Notebook", 1200.00));
             list.Add(new Product("Tablet", 450.00));
 
-            List<string> result = list.Select(NameUpper).ToList();
+            //recebe um produto retorna uma string
+            Func<Product, string> func = NameUpper;// referencia da funcao
+
+            List<string> result = list.Select(func).ToList();
 
             foreach (string s in result)
             {
