@@ -1,0 +1,15 @@
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_237_LINQ_Lambda\Exerc_237_LINQ_Lambda\bin\Debug\net6.0\Exerc_237_LINQ_Lambda.exe
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_237_LINQ_Lambda\Exerc_237_LINQ_Lambda\bin\Debug\net6.0\Exerc_237_LINQ_Lambda.deps.json
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_237_LINQ_Lambda\Exerc_237_LINQ_Lambda\bin\Debug\net6.0\Exerc_237_LINQ_Lambda.runtimeconfig.json
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_237_LINQ_Lambda\Exerc_237_LINQ_Lambda\bin\Debug\net6.0\Exerc_237_LINQ_Lambda.dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_237_LINQ_Lambda\Exerc_237_LINQ_Lambda\bin\Debug\net6.0\Exerc_237_LINQ_Lambda.pdb
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_237_LINQ_Lambda\Exerc_237_LINQ_Lambda\obj\Debug\net6.0\Exerc_237_LINQ_Lambda.csproj.AssemblyReference.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_237_LINQ_Lambda\Exerc_237_LINQ_Lambda\obj\Debug\net6.0\Exerc_237_LINQ_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_237_LINQ_Lambda\Exerc_237_LINQ_Lambda\obj\Debug\net6.0\Exerc_237_LINQ_Lambda.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_237_LINQ_Lambda\Exerc_237_LINQ_Lambda\obj\Debug\net6.0\Exerc_237_LINQ_Lambda.AssemblyInfo.cs
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_237_LINQ_Lambda\Exerc_237_LINQ_Lambda\obj\Debug\net6.0\Exerc_237_LINQ_Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_237_LINQ_Lambda\Exerc_237_LINQ_Lambda\obj\Debug\net6.0\Exerc_237_LINQ_Lambda.dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_237_LINQ_Lambda\Exerc_237_LINQ_Lambda\obj\Debug\net6.0\refint\Exerc_237_LINQ_Lambda.dll
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_237_LINQ_Lambda\Exerc_237_LINQ_Lambda\obj\Debug\net6.0\Exerc_237_LINQ_Lambda.pdb
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_237_LINQ_Lambda\Exerc_237_LINQ_Lambda\obj\Debug\net6.0\Exerc_237_LINQ_Lambda.genruntimeconfig.cache
+C:\Users\Win10\source\repos\Exercicios_csharp\Exerc_237_LINQ_Lambda\Exerc_237_LINQ_Lambda\obj\Debug\net6.0\ref\Exerc_237_LINQ_Lambda.dll
