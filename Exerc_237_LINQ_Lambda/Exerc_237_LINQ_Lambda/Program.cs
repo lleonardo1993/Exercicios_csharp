@@ -50,9 +50,33 @@ namespace Exerc_237_LINQ_Lambda
             // consulta nome do obj que começa com 'c' e, utilizando obj anonymous.
             var r3 = products.Where(p => p.Name[0] == 'C').Select(p => new { p.Name, p.Price, CategoryName = p.Category.Name });
             Print("NAMES STARTED WITH 'C' AND ANONYMOUS OBJECT", r3);
-            //
+            // consulta ordenando por preço e por nome
             var r4 = products.Where(p => p.Category.Tier == 1).OrderBy(p => p.Price).ThenBy(p => p.Name);
             Print("TIER 1 ORDER BY PRICE THEN BY NAME", r4);
+            // consulta pulando os 2 primeiros elementos com Skip, e pegou 4 elementos com Take.
+            var r5 = r4.Skip(2).Take(4);
+            Print("TIER 1 ORDER BY PRICE THEN BY NAME SKIP 2 TAKE 4", r5);
+            // pegando primeiro elemento da lista
+            var r6 = products.First();
+            Console.WriteLine("First test 1 " + r6);
+            // pega o primeiro elemento ou insere um null
+            var r7 = products.FirstOrDefault();
+            Console.WriteLine("First or default test 1 " + r7);
+            // consulta o valor do Price > 3000.00, insere null se não tiver valor
+            var r8 = products.Where(p => p.Price > 3000.00).FirstOrDefault();
+            Console.WriteLine("First or default test 2 " + r8);
+            // consulta valor por Id, SingleOrdefault(), caso não existe o id retorna null
+            var r9 = products.Where(p => p.Id == 3).SingleOrDefault();
+            Console.WriteLine("SingleOrDefault " + r9);
+            // consulta passando valor que não existe, retorno null
+            var t1 = products.Where(p => p.Id == 30).SingleOrDefault();
+            Console.WriteLine("SingleOrDefault tes2 null, " + t1);
+            Console.WriteLine();
+
+
+
+
+
         }
     }
 }
