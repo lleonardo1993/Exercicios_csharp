@@ -43,11 +43,13 @@ namespace Exerc_237_LINQ_Lambda
 
             // consulta com price menor q 900 da categoria = 1
             var r1 = products.Where(p => p.Category.Tier == 1 &&  p.Price < 900);
-
-            // consulta where pegando valor da categoria.name, select pega o valor do where e só o valor do name
-            var r2 = products.Where(p => p.Category.Name == "Tools").Select(p => p.Name);
             Print("TIER 1 AND PRICE < 900 ", r1);
+            // consulta where pegando valor da categoria.name, select pega o valor do where e só o valor do name
+            var r2 = products.Where(p => p.Category.Name == "Tools").Select(p => p.Name);            
             Print("NAMES OF PRODUCTS FROM TOOLS", r2);
+            // consulta nome do obj que começa com 'c' e, utilizando obj anonymous.
+            var r3 = products.Where(p => p.Name[0] == 'C').Select(p => new { p.Name, p.Price, CategoryName = p.Category.Name });
+            Print("NAMES STARTED WITH 'C' AND ANONYMOUS OBJECT", r3);
         }
     }
 }
