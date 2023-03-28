@@ -72,9 +72,24 @@ namespace Exerc_237_LINQ_Lambda
             var t1 = products.Where(p => p.Id == 30).SingleOrDefault();
             Console.WriteLine("SingleOrDefault tes2 null, " + t1);
             Console.WriteLine();
-
-
-
+            // pegando valor max da consulta
+            var t2 = products.Max(p => p.Price);
+            Console.WriteLine("Max price: " + t2);
+            // pegando valor min da consulta
+            var t3 = products.Min(p => p.Price);
+            Console.WriteLine("Min price: " + t3);
+            // Soma dos preços da categoria 1
+            var t4 = products.Where(p => p.Category.Id == 1).Sum(p => p.Price);
+            Console.WriteLine("Category 1 Sum Pices: " + t4);
+            // Média dos preços da categoria 1
+            var t5 = products.Where(p => p.Category.Id == 1).Average(p => p.Price);
+            Console.WriteLine("Category 1 Average Prices: " + t5);
+            // Atribuindo um valor default com DefaultIfEmpty, se o valor for null atribui um valor default no método DefaultIfEmpty
+            var t6 = products.Where(p => p.Category.Id == 5).Select(p => p.Price).DefaultIfEmpty(0.0).Average();
+            Console.WriteLine("Category 5 Average Prices: " + t6);
+            // Soma dos preços da categoria 1, passando uma função anonima no método Aggregate ( passando 0.0 no aggregate como valor inicial em caso de exception)
+            var t7 = products.Where(p => p.Category.Id == 1).Select(p => p.Price).Aggregate(0.0,(x, y) => x + y);
+            Console.WriteLine("Category 1 Aggregate Sum: " + t7);
 
 
         }
