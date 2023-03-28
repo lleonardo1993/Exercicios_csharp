@@ -91,6 +91,19 @@ namespace Exerc_237_LINQ_Lambda
             var t7 = products.Where(p => p.Category.Id == 1).Select(p => p.Price).Aggregate(0.0,(x, y) => x + y);
             Console.WriteLine("Category 1 Aggregate Sum: " + t7);
 
+            Console.WriteLine();
+
+            // 
+            var t8 = products.GroupBy(p => p.Category);
+            foreach (IGrouping<Category, Product> group in t8) 
+            {
+                Console.WriteLine("Category " + group.Key.Name + ":");
+                foreach (Product p in group)
+                {
+                    Console.WriteLine(p);
+                }
+                Console.WriteLine();
+            }
 
         }
     }
