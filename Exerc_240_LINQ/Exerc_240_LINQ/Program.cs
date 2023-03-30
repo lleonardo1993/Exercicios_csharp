@@ -43,25 +43,50 @@ namespace Exerc_240_LINQ
             };
 
             // consulta com price menor q 900 da categoria = 1
-            var r1 = products.Where(p => p.Category.Tier == 1 && p.Price < 900);
+            //var r1 = products.Where(p => p.Category.Tier == 1 && p.Price < 900);
+            var r1 = from p in products where p.Category.Tier == 1 && p.Price < 900 select p; // mesmo resultado da consulta assima, sintax alternativa do LINQ
             Print("TIER 1 AND PRICE < 900 ", r1);
+
             // consulta where pegando valor da categoria.name, select pega o valor do where e só o valor do name
-            var r2 = products.Where(p => p.Category.Name == "Tools").Select(p => p.Name);
+            //var r2 = products.Where(p => p.Category.Name == "Tools").Select(p => p.Name);
+            var r2 = from p in products where p.Category.Name == "Tools" select p.Name; 
             Print("NAMES OF PRODUCTS FROM TOOLS", r2);
+
             // consulta nome do obj que começa com 'c' e, utilizando obj anonymous.
-            var r3 = products.Where(p => p.Name[0] == 'C').Select(p => new { p.Name, p.Price, CategoryName = p.Category.Name });
+            //var r3 = products.Where(p => p.Name[0] == 'C').Select(p => new { p.Name, p.Price, CategoryName = p.Category.Name });
+            var r3 = from p in products
+                     where p.Name[0] == 'C'
+                     select new
+                     {
+                         p.Name,
+                         p.Price,
+                         CateryName = p.Category.Name
+                     };
             Print("NAMES STARTED WITH 'C' AND ANONYMOUS OBJECT", r3);
+
             // consulta ordenando por preço e por nome
-            var r4 = products.Where(p => p.Category.Tier == 1).OrderBy(p => p.Price).ThenBy(p => p.Name);
+            //var r4 = products.Where(p => p.Category.Tier == 1).OrderBy(p => p.Price).ThenBy(p => p.Name);
+            var r4 = from p in products
+                     where p.Category.Tier == 1
+                     orderby p.Name     // invertendo as order para ordernar, com a nova sintax
+                     orderby p.Price
+                     select p;
             Print("TIER 1 ORDER BY PRICE THEN BY NAME", r4);
+
             // consulta pulando os 2 primeiros elementos com Skip, e pegou 4 elementos com Take.
-            var r5 = r4.Skip(2).Take(4);
+            //var r5 = r4.Skip(2).Take(4);
+            var r5 = (from p in r4
+                      select p).Skip(2).Take(4);
             Print("TIER 1 ORDER BY PRICE THEN BY NAME SKIP 2 TAKE 4", r5);
+
             // pegando primeiro elemento da lista
             var r6 = products.First();
             Console.WriteLine("First test 1 " + r6);
             // pega o primeiro elemento ou insere um null
-            var r7 = products.FirstOrDefault();
+            //var r7 = products.FirstOrDefault();
+            var r7 = (from p in products
+                      select p).FirstOrDefault();
+
             Console.WriteLine("First or default test 1 " + r7);
             // consulta o valor do Price > 3000.00, insere null se não tiver valor
             var r8 = products.Where(p => p.Price > 3000.00).FirstOrDefault();
@@ -95,7 +120,10 @@ namespace Exerc_240_LINQ
             Console.WriteLine();
 
             // 
-            var t8 = products.GroupBy(p => p.Category);
+            //var t8 = products.GroupBy(p => p.Category);
+            var t8 =
+                from p in products
+                group p by p.Category;
             foreach (IGrouping<Category, Product> group in t8)
             {
                 Console.WriteLine("Category " + group.Key.Name + ":");
